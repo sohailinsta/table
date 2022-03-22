@@ -1,0 +1,181 @@
+.container-table{
+    margin: 0;
+    box-shadow: inset 0 0 10px #000000;
+    overflow-x: scroll; 
+    overflow-y: scroll;
+    max-height: 100vh;
+}
+
+.candidate{
+    padding: 15px;
+    padding-left: 570px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px gray;
+}
+
+.candidate-name{
+    text-align: center;
+}
+
+.round-1{
+    width: 450px;
+    text-align: center;
+}
+
+.container{
+    margin-top: 100px;
+    margin-left: 1050px;
+    max-width: 220px;
+    max-height: 150px;
+}
+
+.rejected-by-client{
+    min-width: 110px;
+    text-align: center;
+}
+
+.close{
+    margin: auto;
+}
+
+.btn-reason{
+    height: 20px;
+    padding-bottom: 23px;
+    padding-left: 10px;
+    margin-right: 4px;
+    width: 60px;
+}
+
+.font-reason{
+    font-size: small;
+}
+
+.candidate:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+
+.border-reason{
+    border-radius: 8px;
+}
+
+.job-id{
+    min-width: 100px;
+    text-align: center;
+}
+
+.company-name{
+    min-width: 150px;
+}
+
+.forwarded{
+    min-width: 150px;
+    text-align: center;
+}
+
+.background-color{
+    color: black;
+    /*background: #6590df;*/
+    /*background-color: #76a3f7;*/
+    /*background-color: #83abf5;*/
+    box-shadow: inset 0 0 0 #000000;
+    border-radius: 10px;
+}
+
+/*.background-color:hover{
+    /*background: #6590df;*/
+    /*background-color: #76a3f7;*/
+    /*background-color: #6a96e9;
+}*/
+
+.forwarded-yes{
+    min-width: 150px;
+}
+
+.dxc{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sohail{
+    text-transform: capitalize;
+    font-family:'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 700;
+    font-size: large;
+}
+
+.client{
+    min-width: 100px;
+}
+
+.assigned{
+    min-width: 90px;
+}
+
+.assigned-yes{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.forwarded-yes{
+    text-align: center;
+}
+
+.verified{
+    text-align: center;
+}
+
+.selected{
+    min-width: 80px;
+    text-align: center;
+}
+
+.rejected{
+    text-align: center;
+}
+
+/*.change-color{
+    background-color: rgb(198, 218, 236);
+}*/
+
+/*.table-background-color{
+    /*background-color: rgb(210, 241, 231);*/
+    /*background-color: rgb(248, 245, 240);
+}*/
+
+.verified-set{
+    width: 23px;
+    height: 23px;
+}
+
+.rejected-set{
+    width: 20px;
+    height: 20px;
+}
+
+.pending-set{
+    width: 20px;
+    height: 20px;
+}
+
+.round-1-result{
+    text-align: center;
+}
+
+.round-2{
+    text-align: center;
+}
+
+.round-3{
+    text-align: center;
+}
+
+.round-1{
+width: 130px;    
+}
+
+/*.dropdown{
+    margin-left: 30px;
+}*/
