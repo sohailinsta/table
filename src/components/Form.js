@@ -26,10 +26,10 @@ export default function Form() {
     <tr className="border-dark">
       {/*<th scope="col">#</th>*/}
       <th scope="col" className="candidate-name">Candidate Name</th>
-      <th scope="col" className="job-id">Job-Id</th>
+      <th scope="col" className="job-id">Job-Id <img className="job-id-icon" src="https://cdn4.iconfinder.com/data/icons/business-782/100/business_icon_set-18-512.png" alt="job-id"/> </th>
       {/*<th scope="col" className="company-name">Company name status</th>*/}
-      <th scope="col" className="client">Client poc</th>
-      <th scope="col" className="assigned">Assigned</th>
+      <th scope="col" className="client">Client poc <img className="client-pov-icon" src="https://freesvg.org/img/cliente.png" alt="client-pov"/></th>
+      <th scope="col" className="assigned">Assigned <img className="assigned-icon" src="https://i.pinimg.com/originals/72/10/78/721078d6b03e349cea9e59f24b42420c.png" alt="assigned"/> </th>
       <th scope="col" className="verified">Verified <img className="verified-set" src="https://www.citypng.com/public/uploads/preview/blue-round-circle-badge-verified-tick-mark-icon-21635270904irlimm0pwl.png" alt="selected"/></th>
       <th scope="col" className="forwarded">Forwarded by Client team</th>
       <th scope="col" className="rejected-by-client">Rejected by Client</th>
@@ -38,7 +38,7 @@ export default function Form() {
       <th scope="col" className="round-2">Scheduled Round 2</th>
       <th scope="col" className="round-2-result">Round 2 result</th>
       <th scope="col" className="round-3">Scheduled Round 3</th>
-      <th scope="col">Round 3 result</th>
+      <th scope="col" className="round-3-result">Round 3 result</th>
       <th scope="col" className="selected">Selected <img className="verified-set" src="https://www.citypng.com/public/uploads/preview/blue-round-circle-badge-verified-tick-mark-icon-21635270904irlimm0pwl.png" alt="selected"/></th>
       <th scope="col" className="rejected">Rejected <img className="rejected-set" src="https://png.pngtree.com/png-vector/20190618/ourmid/pngtree-true-and-false-symbols-accept-rejected-for-evaluation-vector-simple-png-image_1502129.jpg" alt="rejected"/></th>
     </tr>

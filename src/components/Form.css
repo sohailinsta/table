@@ -9,17 +9,19 @@
 .candidate{
     padding: 15px;
     padding-left: 570px;
-    font-weight: bold;
-    text-shadow: 1px 1px 2px gray;
 }
 
 .candidate-name{
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .round-1{
     width: 450px;
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .container{
@@ -32,6 +34,8 @@
 .rejected-by-client{
     min-width: 110px;
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .close{
@@ -62,6 +66,28 @@
 .job-id{
     min-width: 100px;
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
+}
+
+.job-id-icon{
+    text-align: center;
+    width: 30px;
+    height: 30px;
+}
+
+.client-pov-icon{
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    margin-left: 23px;
+    margin-bottom: 3px;
+}
+
+.assigned-icon{
+    width:55px;
+    height: 25px;
+    margin-left: 13px;
 }
 
 .company-name{
@@ -71,6 +97,8 @@
 .forwarded{
     min-width: 150px;
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .background-color{
@@ -95,6 +123,8 @@
 .dxc{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 500;
 }
 
 .sohail{
@@ -103,20 +133,26 @@
     font-style: oblique;
     font-weight: 700;
     font-size: large;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 30%);
 }
 
 .client{
     min-width: 100px;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .assigned{
     min-width: 90px;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .assigned-yes{
     text-align: center;
     text-transform: capitalize;
     font-weight: 500;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
 }
 
 .forwarded-yes{
@@ -125,15 +161,21 @@
 
 .verified{
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .selected{
     min-width: 80px;
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .rejected{
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 /*.change-color{
@@ -162,14 +204,34 @@
 
 .round-1-result{
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
+}
+
+.round-2-result{
+    min-width: 90px;
+    text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
+}
+
+.round-3-result{
+    min-width: 90px;
+    text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .round-2{
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .round-3{
     text-align: center;
+    text-shadow: 3px 2px 6px rgb(0 0 0 / 40%);
+    font-weight: 800;
 }
 
 .round-1{
